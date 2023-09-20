@@ -1,5 +1,7 @@
 # Project 1: `ripgzip`
 
+> ref: https://gitlab.com/alex.stanovoy/mipt-rust/-/tree/master/problems/modules/ripgzip
+
 In this project, you'll implement a simple `gzip` files decompressor.
 
 _Note_: the project name is just a reference to [`ripgrep`](https://github.com/BurntSushi/ripgrep), blazingly fast `grep` implementation in pure Rust.
